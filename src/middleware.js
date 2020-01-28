@@ -2,6 +2,7 @@ import RSAA from './RSAA';
 import { isRSAA, validateRSAA } from './validation';
 import { InvalidRSAA, RequestError, InternalError } from './errors';
 import { normalizeTypeDescriptors, actionWith } from './util';
+global.fetch = require('isomorphic-unfetch');
 
 /**
  * Default options for redux-api-middleware

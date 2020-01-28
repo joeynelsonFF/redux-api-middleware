@@ -31,7 +31,9 @@
     "email": "agraboso@gmail.com"
   },
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "isomorphic-unfetch": "^3.0.0"
+  },
   "devDependencies": {
     "@babel/cli": "^7.1.5",
     "@babel/core": "^7.1.6",
