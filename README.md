@@ -1,3 +1,5 @@
+current: yarn add https://github.com/joeynelsonFF/redux-api-middleware/#c1772e1fb06d78703880b45f33b9fe9e6b22383f
+
 redux-api-middleware
 ====================
 [![npm version](https://badge.fury.io/js/redux-api-middleware.svg)](https://npm.im/redux-api-middleware) [![npm downloads](https://img.shields.io/npm/dm/redux-api-middleware.svg)](https://npm.im/redux-api-middleware) [![Build Status](https://travis-ci.org/agraboso/redux-api-middleware.svg?branch=master)](https://travis-ci.org/agraboso/redux-api-middleware) [![Coverage Status](https://coveralls.io/repos/agraboso/redux-api-middleware/badge.svg?branch=master&service=github)](https://coveralls.io/github/agraboso/redux-api-middleware?branch=master) [![Package Size](https://badgen.net/bundlephobia/minzip/redux-api-middleware)](https://bundlephobia.com/result?p=redux-api-middleware)
