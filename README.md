@@ -1,5 +1,6 @@
 ## SHOULD BE REPLACED WHEN Fork Origin fixes their broken global fetch
-current: yarn add https://github.com/joeynelsonFF/redux-api-middleware/#c1772e1fb06d78703880b45f33b9fe9e6b22383f
+current: yarn add https://github.com/starcard-org/redux-api-middleware/#dffca74368e1a87bfde6a62ac00a8b7d1290abe4
+PR to track: https://github.com/agraboso/redux-api-middleware/pull/241
 
 redux-api-middleware
 ====================
