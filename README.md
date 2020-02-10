@@ -1,3 +1,4 @@
+## SHOULD BE REPLACED WHEN Fork Origin fixes their broken global fetch
 current: yarn add https://github.com/joeynelsonFF/redux-api-middleware/#c1772e1fb06d78703880b45f33b9fe9e6b22383f
 
 redux-api-middleware
